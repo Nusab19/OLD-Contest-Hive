@@ -1,4 +1,4 @@
-# OLD repo ( No longer Maintained )
+# OLD repo ( Less Maintained )
 <p align="center">
 <img height="100px" src="public/favicon.svg" alt="Contest Hive Logo">
 </p>
