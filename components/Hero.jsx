@@ -1,5 +1,8 @@
 import Link from "next/link";
 
+import Notice from "./Notice";
+
+
 const GithubUrl = "https://github.com/Contest-Hive/Contest-Hive";
 
 const Home = () => {
@@ -63,6 +66,7 @@ const Home = () => {
           <div className="md:top-30 md:h-5/11 absolute top-36 -z-10 mx-auto h-1/5 w-3/5 max-w-2xl rounded-lg bg-gradient-to-r from-indigo-800 to-fuchsia-800 opacity-80 blur-[100px] md:w-4/6 md:opacity-80 md:blur-[130px] lg:w-2/5 xl:w-2/6"></div>
         </div>
       </div>
+      <Notice />
     </div>
   );
 };
